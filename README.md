@@ -36,22 +36,27 @@ https://apps.apple.com/us/app/t-mobile-digits/id1097606585?platform=iphone
 
 <b>EDigits, Edison</b>
 <b>Client – T- Mobile</b>
+
 eDigit app is for T mobile’s enterprise customer. App builds on VIPER architecture using Swift language. My role for this app is resolve the issues and handle the India development team. App covers all the basic feature related to mobile like Calendar, Call, Message, Merge call, Group message. User can activate multiple lines in a single device. I am responsible for Call kit, user login, setting and push notification module development. I was also leading a team in India for this project to assign task and issues to collogues and deliver build to testing team for validate and release app to client.
 
 <b>Lead Engineer, Indusface Telecom Pvt Ltd, Bengaluru, India – Bengaluru, India | May 2016 – Nov 2017</b>
 <b>Ingage.ai – Web portal </b>
+
 Ingage(ShopIn) is a product of OpenClove/Myx Corp USA which is actually subsidiary company of Indusface telecom. I have recently started development in Angular JS as a beginner. My responsibility is to add feature and fixing the bugs. Learning new technologies like IBM Watson, AWS lambda, HubSpot and Silverpop.
 
 <b>Phazr (Enterprise app)</b>
+
 Phzr is a new product and startup of Indusface Telecom. Phazr is a product related to 5g spectrum. I have develop iOS app for Speed observation through chart for Phzr USA team. It’s an enterprise solution.
 
 <b>ShopIn</b>
+
 ShopIn buyer module is a product of OpenClove/Myx Corp USA which is actually subsidiary company of Indusface telecom. App basically provides feature of buying product online through app only. User can search the product and it will fetch the list of shops which is basically combination of promoted shops, verified shops and seller shops. App gives features of chat directly with seller where user can bargain with seller. App chart screens support text, photo , video, web template messages, cart template. Seller can offer product on discount to user where user can accept the discounted offer and buy the product. App support one more feature My Leads. My Leads shows the leads which is related to his previous search. App is still in under development phase
 ShopIn seller is basically provides feature of Selling product online through app. Seller can add their Brands and products through app. App support feature of My Leads and Chat where My Leads is shows the least of user who have search the product which is related to his shops item. He can directly offer the buyer through app and chat with the buyer. App is still in under development phase
 
 <b>Senior Software Consultant, Capgemini, Bengaluru, India | Nov 2014 – April 2016</b>
 <b>HIVE(Enterprise application)</b>
 <b>Platform:  XCode 6.4, iOS 8.0+, Objective C REST API, Swift</b>
+
 Hive is an internal application for North American group of CapGemini. App made for internally use. App is generally describe the handling of company data. It’s work according to logged in user. App shows different kind of charts. App includes various modules like MyKPI, Service lines, Reports, Direct Reports, Organization, Glossary and Expectation. KPI shows different kind of data which are sales, headcount, utilization, appraisal, bookings etc. Other tabs having their own functionality.
 
 <b>Carrefour Drive - iPad</b>
