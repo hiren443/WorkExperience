@@ -92,6 +92,7 @@ App Store link: http://itunes.apple.com/in/app/4sale/id435463622?mt=8
 -	The app is always found in top ten in iTunes Store entertainment category.
 	
 <b>Software Developer, Software Science Inc, Surat, India | Aug 2009 – Nov 2011</b>
+
 <b>Links – Open source contribution</b>
 <b>Stack Overflow:</b> http://stackoverflow.com/users/579628/hiren
 <b>Github:</b> https://github.com/hiren443
