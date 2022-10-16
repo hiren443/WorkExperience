@@ -87,8 +87,8 @@ http://yourstory.com/2013/12/imusti-broadens-appeal-indian-culturati/</b>
 * My role for this app to work individual and develop the application. This application is for Kuwait Country to make selling items easier by posting the picture of the item with the details in its own category, so the person whom is looking for a special item all he needs to do is go to the category and look for it.
 App Store link: http://itunes.apple.com/in/app/4sale/id435463622?mt=8 
 ### Achievements:
-* The app is rank in top in iTunes Store Kuwait.
-* The app is always found in top ten in iTunes Store entertainment category.
+* The app tops in iTunes Store Kuwait.
+* The app always found in top ten in iTunes Store entertainment category.
 	
 #### Software Developer, Software Science Inc, Surat, India | Aug 2009 – Nov 2011
 
